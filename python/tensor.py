@@ -12,3 +12,14 @@ hypothesis = x_train * W + b
 
 # cost function
 cost = tf.reduce_mean(tf.square(hypothesis - y_train))
+# 임시 주석ㄴ이러ㅣ
+ㅇㄹ
+ㅁ
+ㄴㅇ
+ㄴㅇㄹㅇ
+
+ㄹㅇ
+ㄴ
+ㄴ
+ㄴ
+
