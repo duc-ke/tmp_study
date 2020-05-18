@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 # X and Y data
-
+# dfadfasdfadsfdsfas
 x_train = [1,2,3]
 y_train = [1,2,3]
 W = tf.Variable(tf.random.normal([1]), name = 'weights')
