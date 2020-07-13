@@ -5,3 +5,6 @@ im im im im im im im
 bam bam bam bam
 fastq fastq fastq fastq
 bcl bcl
+im jungi
+bcl to fastq to bam pipeline
+single cell seq,`
